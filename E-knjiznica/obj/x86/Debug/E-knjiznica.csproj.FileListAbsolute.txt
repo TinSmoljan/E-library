@@ -1,0 +1,47 @@
+C:\Users\TinSmoljan\Desktop\fesb\3.god\1.semestar\programsko inzenjerstvo\domaci\E-knjiznica\E-knjiznica\bin\Debug\E-knjiznica.exe
+C:\Users\TinSmoljan\Desktop\fesb\3.god\1.semestar\programsko inzenjerstvo\domaci\E-knjiznica\E-knjiznica\bin\Debug\E-knjiznica.pdb
+C:\Users\TinSmoljan\Desktop\fesb\3.god\1.semestar\programsko inzenjerstvo\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E_knjiznica.Properties.Resources.resources
+C:\Users\TinSmoljan\Desktop\fesb\3.god\1.semestar\programsko inzenjerstvo\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E-knjiznica.csproj.GenerateResource.Cache
+C:\Users\TinSmoljan\Desktop\fesb\3.god\1.semestar\programsko inzenjerstvo\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E-knjiznica.exe
+C:\Users\TinSmoljan\Desktop\fesb\3.god\1.semestar\programsko inzenjerstvo\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E-knjiznica.pdb
+C:\Users\TinSmoljan\Desktop\fesb\3.god\1.semestar\programsko inzenjerstvo\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E-knjiznica.csprojAssemblyReference.cache
+C:\Users\TinSmoljan\Desktop\fesb\3.god\1.semestar\programsko inzenjerstvo\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E-knjiznica.csproj.CoreCompileInputs.cache
+C:\Users\TinSmoljan\Desktop\fesb\3.god\1.semestar\programsko inzenjerstvo\domaci\E-knjiznica\E-knjiznica\bin\Debug\E-knjiznica.exe.config
+C:\Users\TinSmoljan\Desktop\fesb\3.god\1.semestar\programsko inzenjerstvo\domaci\E-knjiznica\E-knjiznica\bin\Debug\Npgsql.dll
+C:\Users\TinSmoljan\Desktop\fesb\3.god\1.semestar\programsko inzenjerstvo\domaci\E-knjiznica\E-knjiznica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\TinSmoljan\Desktop\fesb\3.god\1.semestar\programsko inzenjerstvo\domaci\E-knjiznica\E-knjiznica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\TinSmoljan\Desktop\fesb\3.god\1.semestar\programsko inzenjerstvo\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E-knjiznica.csproj.CopyComplete
+C:\Users\TinSmoljan\Desktop\fesb\3.god\1.semestar\programsko inzenjerstvo\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E_knjiznica.Login.resources
+C:\Users\TinSmoljan\Desktop\fesb\3.god\1.semestar\programsko inzenjerstvo\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E_knjiznica.PocetnaZaposlenika.resources
+C:\Users\TinSmoljan\Desktop\fesb\3.god\1.semestar\programsko inzenjerstvo\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E_knjiznica.Korisnici.resources
+C:\Users\TinSmoljan\Desktop\fesb\3.god\1.semestar\programsko inzenjerstvo\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E_knjiznica.Knjige.resources
+C:\Users\TinSmoljan\Desktop\fesb\3.god\1.semestar\programsko inzenjerstvo\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E_knjiznica.NoviKorisnik.resources
+C:\Users\TinSmoljan\Desktop\fesb\3.god\1.semestar\programsko inzenjerstvo\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E_knjiznica.BrisiKorisnika.resources
+C:\Users\TinSmoljan\Desktop\fesb\3.god\1.semestar\programsko inzenjerstvo\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E_knjiznica.Zaduzenja.resources
+C:\Users\TinSmoljan\Desktop\fesb\3.god\1.semestar\programsko inzenjerstvo\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E_knjiznica.Informacije.resources
+C:\Users\TinSmoljan\Desktop\fesb\3.god\1.semestar\programsko inzenjerstvo\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E_knjiznica.PocetnaKorisnika.resources
+C:\Users\TinSmoljan\Desktop\fesb\3.god\1.semestar\programsko inzenjerstvo\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E_knjiznica.ZaduzenjeKorisnika.resources
+C:\Users\TinSmoljan\Desktop\fesb\3.god\1.semestar\programsko inzenjerstvo\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E_knjiznica.KnjigeKorisnik.resources
+C:\Users\TinSm\OneDrive\Desktop\domaci\E-knjiznica\E-knjiznica\bin\Debug\E-knjiznica.exe.config
+C:\Users\TinSm\OneDrive\Desktop\domaci\E-knjiznica\E-knjiznica\bin\Debug\E-knjiznica.exe
+C:\Users\TinSm\OneDrive\Desktop\domaci\E-knjiznica\E-knjiznica\bin\Debug\E-knjiznica.pdb
+C:\Users\TinSm\OneDrive\Desktop\domaci\E-knjiznica\E-knjiznica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\TinSm\OneDrive\Desktop\domaci\E-knjiznica\E-knjiznica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\TinSm\OneDrive\Desktop\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E-knjiznica.csprojAssemblyReference.cache
+C:\Users\TinSm\OneDrive\Desktop\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E_knjiznica.BrisiKorisnika.resources
+C:\Users\TinSm\OneDrive\Desktop\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E_knjiznica.Informacije.resources
+C:\Users\TinSm\OneDrive\Desktop\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E_knjiznica.Knjige.resources
+C:\Users\TinSm\OneDrive\Desktop\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E_knjiznica.KnjigeKorisnik.resources
+C:\Users\TinSm\OneDrive\Desktop\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E_knjiznica.Korisnici.resources
+C:\Users\TinSm\OneDrive\Desktop\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E_knjiznica.Login.resources
+C:\Users\TinSm\OneDrive\Desktop\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E_knjiznica.NoviKorisnik.resources
+C:\Users\TinSm\OneDrive\Desktop\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E_knjiznica.PocetnaKorisnika.resources
+C:\Users\TinSm\OneDrive\Desktop\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E_knjiznica.PocetnaZaposlenika.resources
+C:\Users\TinSm\OneDrive\Desktop\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E_knjiznica.Properties.Resources.resources
+C:\Users\TinSm\OneDrive\Desktop\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E_knjiznica.Zaduzenja.resources
+C:\Users\TinSm\OneDrive\Desktop\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E_knjiznica.ZaduzenjeKorisnika.resources
+C:\Users\TinSm\OneDrive\Desktop\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E-knjiznica.csproj.GenerateResource.cache
+C:\Users\TinSm\OneDrive\Desktop\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E-knjiznica.csproj.CoreCompileInputs.cache
+C:\Users\TinSm\OneDrive\Desktop\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E-knjiznica.csproj.CopyComplete
+C:\Users\TinSm\OneDrive\Desktop\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E-knjiznica.exe
+C:\Users\TinSm\OneDrive\Desktop\domaci\E-knjiznica\E-knjiznica\obj\x86\Debug\E-knjiznica.pdb

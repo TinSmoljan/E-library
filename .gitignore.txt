@@ -1,0 +1,2 @@
+E-knjiznica.suo
+.vs/

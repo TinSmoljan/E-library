@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3B09DFC1-8FDD-4C54-8079-BEEB5A93AA1A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>E_knjiznica</RootNamespace>
+    <AssemblyName>E-knjiznica</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Npgsql">
+      <HintPath>..\..\..\..\..\..\..\..\AppData\Local\Microsoft\VisualStudio\15.0_15c0942b\Extensions\g32xq2zg.itc\Npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.ValueTuple, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BrisiKorisnika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BrisiKorisnika.Designer.cs">
+      <DependentUpon>BrisiKorisnika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Informacije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Informacije.Designer.cs">
+      <DependentUpon>Informacije.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Knjige.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Knjige.Designer.cs">
+      <DependentUpon>Knjige.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KnjigeKorisnik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KnjigeKorisnik.Designer.cs">
+      <DependentUpon>KnjigeKorisnik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Korisnici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Korisnici.Designer.cs">
+      <DependentUpon>Korisnici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NoviKorisnik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NoviKorisnik.Designer.cs">
+      <DependentUpon>NoviKorisnik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PocetnaKorisnika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PocetnaKorisnika.Designer.cs">
+      <DependentUpon>PocetnaKorisnika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PocetnaZaposlenika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PocetnaZaposlenika.Designer.cs">
+      <DependentUpon>PocetnaZaposlenika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Zaduzenja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zaduzenja.Designer.cs">
+      <DependentUpon>Zaduzenja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ZaduzenjeKorisnika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZaduzenjeKorisnika.Designer.cs">
+      <DependentUpon>ZaduzenjeKorisnika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_E_KnjiznicaDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_E_KnjiznicaDataSet1.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BrisiKorisnika.resx">
+      <DependentUpon>BrisiKorisnika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Informacije.resx">
+      <DependentUpon>Informacije.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Knjige.resx">
+      <DependentUpon>Knjige.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KnjigeKorisnik.resx">
+      <DependentUpon>KnjigeKorisnik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Korisnici.resx">
+      <DependentUpon>Korisnici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NoviKorisnik.resx">
+      <DependentUpon>NoviKorisnik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PocetnaKorisnika.resx">
+      <DependentUpon>PocetnaKorisnika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PocetnaZaposlenika.resx">
+      <DependentUpon>PocetnaZaposlenika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Zaduzenja.resx">
+      <DependentUpon>Zaduzenja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZaduzenjeKorisnika.resx">
+      <DependentUpon>ZaduzenjeKorisnika.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="_E_KnjiznicaDataSet1.xsc">
+      <DependentUpon>_E_KnjiznicaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="_E_KnjiznicaDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_E_KnjiznicaDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_E_KnjiznicaDataSet1.xss">
+      <DependentUpon>_E_KnjiznicaDataSet1.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
